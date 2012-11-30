@@ -1,0 +1,68 @@
+{
+
+	"PubChromeFrameInstallerPrompt":"none",
+	"PubUseChromeFrameInstaller":"false",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_start_text}\": [], \
+                \"${_Stage}\": [], \
+                \"${_Text}\": [], \
+                \"${_Sabbath_image2}\": []\
+            }\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"PubDPSName":"lesson2",
+	"PosterCapturePos":"3500",
+	"PosterImagePath":"images\\Poster.png",
+	"pref__general__AutoKeyframeProperties":"true",
+	"usedBOM":"false",
+	"PubDPS":"true",
+	"viewStartMs":"1875.837890625",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"symbol_stage":{
+		"defaultStageParentHeight":"560px",
+		"dummyStageParentWidth":"670px",
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"animationEnabled":"true",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"dummyStageParentHeight":"560px",
+		"element_${_Sabbath_image2}":{
+			"timelineColor2":"0x1aa38f",
+			"animationEnabled":"true",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4"},
+		"element_${_Text}":{
+			"timelineColor2":"0x4fa275",
+			"animationEnabled":"true",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82"},
+		"element_${_start_text}":{
+			"timelineColor2":"0x81aa62",
+			"animationEnabled":"true",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767"},
+		"defaultStageParentWidth":"670px"},
+	"TransitionIdCounter":"20",
+	"CompZoomFactor":"100",
+	"viewStartY":"0",
+	"pixelsPerMs":"0.2",
+	"stage-Default Timeline_mark_ms":"-1",
+	"nextElementColorIndex":"5",
+	"pref__general__GenerateSmoothTransitions":"true",
+	"HTMLFileName":"14.html",
+	"StageZoomFactor":"100",
+	"stage-Default Timeline_playhead_ms":"3500"}
