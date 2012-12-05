@@ -77,6 +77,15 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
       });
       //Edge binding end
 
+      Symbol.bindElementAction(compId, symbolName, "${_RoundRectCopy}", "click", function(sym, e) {
+         // Navigate to a new URL in the current window
+         // (replace "_self" with appropriate target attribute for a new window)
+         window.open("media/pdf/psalm23.pdf", "_blank");
+         
+
+      });
+      //Edge binding end
+
    })("stage");
    //Edge symbol end:'stage'
 
